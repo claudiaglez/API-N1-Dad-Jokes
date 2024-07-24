@@ -16,8 +16,6 @@ Application in which we use Dad's joke API to display different jokes.
 git clone https://github.com/claudiaglez/API-N1-Dad-Jokes.git
 ```
 
-<br><br>
-
 * Navigate to the directory:
 ```
 cd API-N1-Dad-Jokes
@@ -28,9 +26,8 @@ cd API-N1-Dad-Jokes
 * Go Live 
 
 * Enjoy it! :sunglasses:
-* 
 
+  
 ## 👩‍💻 Author
-
 
 :orange_heart: [Claudia González](https://www.linkedin.com/in/claudiaglezgarcia/)
