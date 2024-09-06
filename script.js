@@ -18,14 +18,6 @@ function generateJoke() {
 
 
 
-
-
-
-
-
-
-
-
 // USING ASYNC/AWAIT
 /*
 async function generateJoke() {
