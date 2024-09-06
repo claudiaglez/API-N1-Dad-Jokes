@@ -5,7 +5,7 @@ Application in which we use Dad's joke API to display different jokes.
 
 ## ⚙️ Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vercel)](https://skillicons.dev)
 <br>
 
 
@@ -27,6 +27,13 @@ cd API-N1-Dad-Jokes
 
 * Enjoy it! :sunglasses:
 
+## :rocket: Deployment
+
+This project is deployed on [Vercel](https://dadjokes-hazel.vercel.app//)
+
+## :sparkles: Credits
+
+Favicon icon: <a href="https://www.flaticon.es/iconos-gratis/sombrero-de-bromista" title="sombrero de bromista iconos">Sombrero de bromista iconos creados por Freepik - Flaticon</a>
   
 ## 👩‍💻 Author
 
